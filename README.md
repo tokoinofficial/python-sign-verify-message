@@ -2,7 +2,9 @@
 
 This repos shows the way to sign/verify an ethereum message. It's used for backend of third party where interacts with Tokoin Payment System.
 
-### Tokoin Payment System [WIP]
+### Tokoin Payment System
+- Documentation: https://developer.tokoin.io
+- Support: https://forum.tokoin.io
 
 ### How to use
 - Sign message
